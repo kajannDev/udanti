@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+    "target": "es2015",
+    "jsx": "react",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "outDir": "build"
+  },
+    "exclude": [
+      "build",
+      "node_modules"
+    ],
+    "types": [
+      "typePatches"
+    ]
+  }
